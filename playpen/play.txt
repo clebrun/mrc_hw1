@@ -1,0 +1,8 @@
+Exercise 3
+copying a directory:
+cp -a ~/sandbox/dir1 ~/playpen/
+cp -a ~/sandbox/dir2 ~/playpen/
+
+Moving files:
+mv -v ~/playpen/dir1/ ~/playpen/folder1/
+mv -v ~/playpen/dir2/ ~/playpen/folder2/
